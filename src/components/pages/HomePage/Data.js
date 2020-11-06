@@ -41,14 +41,13 @@ export const homepageData = [
         lightBg: true,
         lightText: false,
         lightTextDesc: false,
-        topLine: 'Esclusive Access',
-        headline: 'Unlimited Transactions with zero fees',
-        description: 'Get access to an exclusive diamond card ' +
-            'that allows you to send unlimited transactions ' +
-            'without getting charged any fees',
-        buttonLabel: 'Get Started',
-        imgStart: '',
-        imgSrc: 'images/svg-1.svg',
-        alt: 'Credit Card'
+        topLine: 'DATA ANALYTICS',
+        headline: 'Every transaction is stored on our secure cloud database',
+        description:
+            'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
+        buttonLabel: 'Sign Up Now',
+        imgStart: 'start',
+        imgSrc: 'images/svg-8.svg',
+        alt: 'Vault'
     },
 ];
